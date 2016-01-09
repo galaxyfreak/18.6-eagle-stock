@@ -34,7 +34,7 @@ How to build your kernel:
     $ export CROSS_COMPILE=/opt/arm-2010q1/bin/arm-none-eabi-
       NOTE: Please set the location and the prefix of the ARM cross-compiler.
 
-    $ make eagle_lte_defconfig
+    $ make
       NOTE: Please set a configuration file you want to build.
 
     $ make
